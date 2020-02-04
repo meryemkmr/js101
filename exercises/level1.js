@@ -1,4 +1,4 @@
-function lvl1exercise1 () {
+function lvl1exercise1 (<a href="#" class="btn btn-primary active" role="button"></a>) {
   // Declare a variable without instantiating it and return it!
 
 }
